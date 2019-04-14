@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="actual_tests"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Test_DIR\;CMake Files\Test_DIR\lib\;CMake Files\Test_DIR\lib\googletest-master\;CMake Files\Test_DIR\lib\googletest-master\googlemock\;CMake Files\Test_DIR\lib\googletest-master\googlemock\cmake\;CMake Files\Test_DIR\lib\googletest-master\googletest\;CMake Files\Test_DIR\lib\googletest-master\googletest\cmake\;CMake Files\Test_DIR\tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/anon/Desktop/Test/cmake-build-debug/Test_DIR/tests"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/anon/Desktop/Test/cmake-build-debug/Test_DIR/tests/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/anon/Desktop/Test/cmake-build-debug/Test_DIR/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/anon/Desktop/Test/cmake-build-debug/Test_DIR/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/anon/Desktop/Test/cmake-build-debug/Test_DIR/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/anon/Desktop/Test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Test_DIR\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/lib/googletest-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Test_DIR\lib\googletest-master\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/lib/googletest-master/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Test_DIR\lib\googletest-master\googlemock\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/lib/googletest-master/googlemock/cmake/gmock.pc.in">
+			<Option virtualFolder="CMake Files\Test_DIR\lib\googletest-master\googlemock\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/lib/googletest-master/googlemock/cmake/gmock_main.pc.in">
+			<Option virtualFolder="CMake Files\Test_DIR\lib\googletest-master\googlemock\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/lib/googletest-master/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Test_DIR\lib\googletest-master\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/lib/googletest-master/googletest/cmake/Config.cmake.in">
+			<Option virtualFolder="CMake Files\Test_DIR\lib\googletest-master\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/lib/googletest-master/googletest/cmake/gtest.pc.in">
+			<Option virtualFolder="CMake Files\Test_DIR\lib\googletest-master\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/lib/googletest-master/googletest/cmake/gtest_main.pc.in">
+			<Option virtualFolder="CMake Files\Test_DIR\lib\googletest-master\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/lib/googletest-master/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\Test_DIR\lib\googletest-master\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/anon/Desktop/Test/Test_DIR/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Test_DIR\tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
